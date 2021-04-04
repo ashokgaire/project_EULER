@@ -32,6 +32,6 @@ def Prime(n):
     print(primeList[n-1])
 
 
-Prime(10001)
+Prime(6)
 
 #104743
